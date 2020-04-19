@@ -1,0 +1,1 @@
+Juego que consta con tres monedas, una pelota y un área de fuego. La pelota se mueve por médio de física y puede saltar, si la pelota agarra una o más monedas, es inmune al área de fuego, pero si esta no logra agarrar ninguna y cae en el área de fuego, desaparece, este tiene sistema de UI de Unity.
