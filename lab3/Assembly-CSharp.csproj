@@ -63,11 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Control.cs" />
-    <Compile Include="Assets\Script\Menus.cs" />
+    <Compile Include="Assets\Script\Buttons.cs" />
     <Compile Include="Assets\Script\Monedas.cs" />
     <Compile Include="Assets\Script\Pelota.cs" />
-    <Compile Include="Assets\Script\player.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/laury/Documents/del Valle/Juegos/Lab no. 3/labMonedas2/lab3/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

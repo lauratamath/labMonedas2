@@ -203,7 +203,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 016d0a17ad1160549a8dfcc79bbcc34d, type: 3}
+      - m_Target: {fileID: 11500000, guid: f1fe0953b907fe6458ca2692fc1579bc, type: 3}
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
@@ -482,7 +482,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 016d0a17ad1160549a8dfcc79bbcc34d, type: 3}
+      - m_Target: {fileID: 11500000, guid: f1fe0953b907fe6458ca2692fc1579bc, type: 3}
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
